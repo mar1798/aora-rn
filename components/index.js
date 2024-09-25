@@ -1,3 +1,7 @@
 export * from './CustomButton'
 export * from './FormField'
 export * from './TabIcon'
+export * from './SearchInput'
+export * from './Trending'
+export * from './VideoCard'
+export * from './EmptyState'
